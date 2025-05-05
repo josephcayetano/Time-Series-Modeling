@@ -1,5 +1,13 @@
 # D603-Task-3-Time-Series-Modeling
+### Overview
 
+
+### SARIMA Time Series Forecasting – Hospital Revenue Prediction
+-	Built and tuned a SARIMA(1,1,2)(2,1,2,30) model to forecast daily hospital revenue based on 2 years of historical data.
+-	Evaluated model assumptions (stationarity, autocorrelation) and diagnostics (Ljung-Box, Jarque-Bera tests); achieved RMSE of ~4.5 million.
+-	Generated a 100-day forecast to support budgeting and resource planning, with annotated visualizations and uncertainty estimates.
+
+### Files
 1. README.md - A file describing other files in this repository.
 
 2. D603_Task3_Final.ipynb - A Jupyter Notebook file that contains the code for time series modeling.
