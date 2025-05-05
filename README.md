@@ -1,6 +1,6 @@
 # D603-Task-3-Time-Series-Modeling
 ### Overview
-
+This project applies SARIMA time series forecasting to predict hospital revenue, supporting budget planning and resource allocation.
 
 ### SARIMA Time Series Forecasting – Hospital Revenue Prediction
 -	Built and tuned a SARIMA(1,1,2)(2,1,2,30) model to forecast daily hospital revenue based on 2 years of historical data.
